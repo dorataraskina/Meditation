@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/drawable/back_corner_1.xml" value="0.2985" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/drawable/back_corner_2.xml" value="0.2985" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/drawable/button_style.xml" value="0.332" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/drawable/splash_screen.xml" value="0.2985" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/drawable/style_1.xml" value="0.332" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/activity_on_boarding.xml" value="0.33" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/card_down.xml" value="0.33" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/card_up.xml" value="0.3087719298245614" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/first_fragment.xml" value="0.3087719298245614" />
+        <entry key="..\:/TD/September/Meditation/app/src/main/res/layout/fragment_home.xml" value="0.3087719298245614" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

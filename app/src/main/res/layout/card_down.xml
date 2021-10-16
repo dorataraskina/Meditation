@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/besh">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20sp"
+        android:layout_marginTop="10dp"
+        android:padding="10sp">
+
+        <TextView
+            android:id="@+id/textMainCard"
+            style="@style/Text_dark"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/alegreya_bold"
+            android:text="Заголовок блока"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/textNeMainCard"
+            style="@style/Text_dark"
+            android:layout_width="156dp"
+            android:layout_height="36dp"
+            android:layout_below="@id/textMainCard"
+            android:fontFamily="@font/alegreya_regular"
+            android:text="Кратенькое описание \nблока с двумя строчками"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/button_card"
+            style="@style/button"
+            android:layout_width="138dp"
+            android:layout_height="39dp"
+            android:layout_below="@id/textNeMainCard"
+            android:layout_marginTop="10dp"
+            android:text="подбробнее"
+            android:textAllCaps="false"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/blup"
+            android:layout_width="166dp"
+            android:layout_height="111dp"
+            android:layout_alignParentRight="true"
+            app:srcCompat="@drawable/blup" />
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>
